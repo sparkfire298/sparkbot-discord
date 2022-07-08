@@ -27,3 +27,8 @@ With slash command support:
 
 ### Start the bot
 `node index.js` or `npm start`
+
+
+# WARNING: ONLINE EDITORS
+### I have not optimized the bot for online editors like replit or Glitch. Meaning, to keep your token safe you will need to do it yourself.
+# I AM NOT RESPONSIBLE FOR ANYTHING THAT HAPPENS, LIKE TOKEN LEAKS, HACKS OR SPAMS. YOU ARE RESPONSIBLE FOR YOUR OWN SECURITY.
