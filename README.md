@@ -7,7 +7,7 @@ A Discord bot for jokes, or utility.
 [Invite the bot](https://discord.com/api/oauth2/authorize?client_id=975699960869838869&permissions=8&redirect_uri=https%3A%2F%2Fwww.sparkfire298.tk%2Fbots%2Fsparkbot%2Finvite%2Fthanks&response_type=code&scope=bot%20applications.commands%20identify)
 
 # Setup
-Clone the repository or download it
+Clone the repository or download it as a ZIP
 
 ### Run these commands in your terminal (make sure you are running these inside the bot folder)
 
